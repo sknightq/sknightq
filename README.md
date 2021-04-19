@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 😄 I'm Sknight, like front-end and gunpla model.  
+- ⚡ You can get my coding records or some inspirations in there.  
+
+[<img align="left" width="80" height="80" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" alt="My Stackoverflow">](https://stackoverflow.com/users/2905194/sknight)
+
+[<img align="left" width="80" height="80" src="https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.a53ae37b.png" alt="My Zhihu">](https://www.zhihu.com/people/devil-sknight)
+
 
 <!--
 **sknightq/sknightq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
